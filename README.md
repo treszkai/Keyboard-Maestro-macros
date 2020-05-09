@@ -10,7 +10,7 @@ In this group every macro is triggered by typing a string, when they delete the 
 
 Example:
 
-![Screenshots/Abbreviations.png]
+![screenshot of Keyboard Maestro](Screenshots/Abbreviations.png)
 
  - `---` produces “------------------”
  - `=ang` produces “⟨⟩”
